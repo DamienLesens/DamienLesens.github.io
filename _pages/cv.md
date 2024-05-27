@@ -11,35 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, ENS de Lyon, 2024
+* B.S. in Computer Science, ENS de Lyon, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May-July 2023: 5 months long Research Internship
+  * Location: ROMA team at ENS de Lyon (Lyon, France)
+  * Topic: Greedy algorithms for computing the Birkhoff decomposition
+  * Supervisors: Bora Uçar and Jérémy E. Cohen
+  * Material produced: article published at EUSCIPCO 2024, (future) 20 pages report and 20 minutes talk
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May-July 2023: 12 weeks long Research Internship
+  * Location: Parallel Programming team at TU-Darmstadt (Damrstadt, Germany)
+  * Topic: High performance computing for brain simulations
+  * Supervisors: Fabian Czappa and Felix Wolf
+  * Material produced: 20 pages report and 20 minutes talk
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June-July 2022: 6 weeks long Research Internship
+  * Location: IRIF (Paris, France)
+  * Topic: Distributed certification of graph properties
+  * Supervisor: Pierre Fraignaud
+  * Material produced: 20 pages report and 20 minutes talk
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Python
+  * C
+  * C++
+  * Java
+  * Ocaml
+* Programming contests
+  * Rating 1471 (specialist) on Codeforces
+  * February 2023 : ranked 45 (out of 120 teams) at SWERC Milano
+  * October 2022 : ranked 32 out of +1000 participants in “Le Shaker” contest
+  * January 2022 : qualification to the final round of the “ProLogin” programming contest
+  
+
+Languages
+=====
+* French: mother tongue
+* English: C2 level, obtained Cambridge Advanced certification in 2022 with C2 grading
+* German: B1 level
 
 Publications
 ======
@@ -53,12 +67,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

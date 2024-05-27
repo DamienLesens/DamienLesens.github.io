@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Damien Lesens"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Computer science student"
+  location         : "Lyon, France"
   employer         : "ENS de Lyon"
   uri              : # URL
   email            : "damien.lesens@ens-lyon.fr" 
