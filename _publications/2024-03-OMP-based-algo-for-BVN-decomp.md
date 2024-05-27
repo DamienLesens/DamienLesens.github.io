@@ -3,7 +3,7 @@ title: "Orthogonal matching pursuit-based algorithms for the Birkhoff-von Neuman
 collection: publications
 permalink: /publication/2024-03-OMP-based-algo-for-BVN-decomp
 excerpt: ''
-date: 2024-03
+date: 2024-03-01
 venue: 'EUSCIPCO 2024'
 slidesurl: ''
 paperurl: 'https://dumas.ccsd.cnrs.fr/INRIA-RRRT/hal-04500014v1'
