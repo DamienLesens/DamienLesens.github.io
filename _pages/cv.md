@@ -16,19 +16,24 @@ Education
 
 Work experience
 ======
-* May-July 2023: 5 months long Research Internship
+* October 2024-January 2025: 3 months long research internship
+  * Location: ROMA team at ENS de Lyon (Lyon, France)
+  * Topic: Birkhoff-like decomposition of symmetric matrices
+  * Supervisors: Bora Uçar and Jérémy E. Cohen
+
+* February-July 2024: 5 months long research internship
   * Location: ROMA team at ENS de Lyon (Lyon, France)
   * Topic: Greedy algorithms for computing the Birkhoff decomposition
   * Supervisors: Bora Uçar and Jérémy E. Cohen
   * Material produced: article published at EUSCIPCO 2024, (future) 20 pages report and 20 minutes talk
 
-* May-July 2023: 12 weeks long Research Internship
+* May-July 2023: 12 weeks long research internship
   * Location: Parallel Programming team at TU-Darmstadt (Damrstadt, Germany)
   * Topic: High performance computing for brain simulations
   * Supervisors: Fabian Czappa and Felix Wolf
   * Material produced: 20 pages report and 20 minutes talk
 
-* June-July 2022: 6 weeks long Research Internship
+* June-July 2022: 6 weeks long research internship
   * Location: IRIF (Paris, France)
   * Topic: Distributed certification of graph properties
   * Supervisor: Pierre Fraignaud
