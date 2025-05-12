@@ -16,6 +16,11 @@ Education
 
 Work experience
 ======
+* February 2025-July 2025: 5 months long research internship
+  * Location: Mila - Quebec AI Institute (Montréal, Canada)
+  * Topic: SVD based methods for reducing the memory cost of KV caching in transformers
+  * Supervisor: Guillaume Rabusseau, also working with Beheshteh Tolouei Rakhshan
+
 * October 2024-January 2025: 3 months long research internship
   * Location: ROMA team at ENS de Lyon (Lyon, France)
   * Topic: Birkhoff-like decomposition of symmetric matrices
