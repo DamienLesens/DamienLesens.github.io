@@ -3,7 +3,7 @@ title: "Algorithms for symmetric Birkhoff-von Neumann decomposition of symmetric
 collection: publications
 permalink: /publication/2025-01-algos-for-sym-BvN-decomp-of-sym-matrices
 excerpt: ''
-date: 2025-01
+date: 2025-01-10
 venue: 'SIAM Journal on Matrix Analysis and Applications'
 slidesurl: ''
 paperurl: 'https://inria.hal.science/hal-04877502/'
