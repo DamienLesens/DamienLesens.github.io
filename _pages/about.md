@@ -10,7 +10,8 @@ redirect_from:
 Bio
 ======
 
-I am a computer science Phd student at ENS de Lyon (France) under the supervision of [Bora Uçar](https://perso.ens-lyon.fr/bora.ucar/) and [Jeremy E. Cohen](https://jeremy-e-cohen.jimdofree.com/). I graduated from the Master "Computer Science: Concepts and Applications" at ENS de Lyon.
+I am a computer science Phd student at ENS de Lyon (France) under the supervision of [Bora Uçar](https://perso.ens-lyon.fr/bora.ucar/) and [Jeremy E. Cohen](https://jeremy-e-cohen.jimdofree.com/). I graduated from the Master "Computer Science: Concepts and Applications" at ENS de Lyon. <a href="http://example.com/" target="_blank">Hello, world!</a>
+
 
 I am interested in algorithms for matrix and tensor decomposition, with applications to signal processing and machine learning. I am also interested in combinatorial scientific computing and algorithmics in general.
 

@@ -21,7 +21,7 @@ repository               : "DamienLesens/DamienLesens.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_damien_square.jpg"
+  avatar           : "photo_damien_carre.jpg"
   name             : "Damien Lesens"
   pronouns         : "he/him"  
   bio              : "Computer science Phd student"
