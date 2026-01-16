@@ -17,31 +17,31 @@ Education
 Work experience
 ======
 * February 2025-July 2025: 5 months long research internship
-  * Location: Mila - Quebec AI Institute (Montréal, Canada)
+  * Location: **Mila - Quebec AI Institute** (Montréal, Canada)
   * Topic: SVD based methods for reducing the memory cost of KV caching in transformers
-  * Supervisor: Guillaume Rabusseau, also working with Beheshteh Tolouei Rakhshan
+  * Supervisor: [Guillaume Rabusseau](https://mila.quebec/fr/annuaire/guillaume-rabusseau), also working with [Beheshteh Tolouei Rakhshan](https://brakhshan.github.io/index.html)
 
 * October 2024-January 2025: 3 months long research internship
-  * Location: ROMA team at ENS de Lyon (Lyon, France)
+  * Location: **ROMA team at ENS de Lyon** (Lyon, France)
   * Topic: Birkhoff-like decomposition of symmetric matrices
-  * Supervisors: Bora Uçar and Jérémy E. Cohen
+  * Supervisors: [Bora Uçar](https://perso.ens-lyon.fr/bora.ucar/) and [Jeremy E. Cohen](https://jeremy-e-cohen.jimdofree.com/)
 
 * February-July 2024: 5 months long research internship
-  * Location: ROMA team at ENS de Lyon (Lyon, France)
+  * Location: **ROMA team at ENS de Lyon** (Lyon, France)
   * Topic: Greedy algorithms for computing the Birkhoff decomposition
-  * Supervisors: Bora Uçar and Jérémy E. Cohen
+  * Supervisors: [Bora Uçar](https://perso.ens-lyon.fr/bora.ucar/) and [Jeremy E. Cohen](https://jeremy-e-cohen.jimdofree.com/)
   * Material produced: article published at EUSCIPCO 2024, (future) 20 pages report and 20 minutes talk
 
 * May-July 2023: 12 weeks long research internship
-  * Location: Parallel Programming team at TU-Darmstadt (Damrstadt, Germany)
+  * Location: **Parallel Programming team at TU-Darmstadt** (Damrstadt, Germany)
   * Topic: High performance computing for brain simulations
-  * Supervisors: Fabian Czappa and Felix Wolf
+  * Supervisors: [Fabian Czappa](https://www.parallel.informatik.tu-darmstadt.de/laboratory/team/czappa/czappa.html) and [Felix Wolf](https://www.parallel.informatik.tu-darmstadt.de/laboratory/team/wolf/wolf.html)
   * Material produced: 20 pages report and 20 minutes talk
 
 * June-July 2022: 6 weeks long research internship
-  * Location: IRIF (Paris, France)
+  * Location: **IRIF** (Paris, France)
   * Topic: Distributed certification of graph properties
-  * Supervisor: Pierre Fraignaud
+  * Supervisor: [Pierre Fraignaud](https://www.irif.fr/users/pierref/index)
   * Material produced: 20 pages report and 20 minutes talk
   
 Skills
