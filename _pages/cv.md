@@ -47,7 +47,26 @@ Work experience
   * Topic: Distributed certification of graph properties
   * Supervisor: <a href="https://www.irif.fr/users/pierref/index" target="_blank">Pierre Fraignaud</a>
   * Material produced: 20 pages report and 20 minutes talk
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Skills
 ======
 * Programming:
@@ -68,24 +87,6 @@ Languages
 * French: mother tongue
 * English: C2 level, obtained Cambridge Advanced certification in 2022 with C2 grading
 * German: B1 level
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======
