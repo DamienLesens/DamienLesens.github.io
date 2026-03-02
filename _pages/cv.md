@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My CV in pdf format is <a href="https://damienlesens.github.io/files/CV_damien_lesens.pdf" target="_blank">here</a>
+
 Education
 ======
 * M.S. in Computer Science, ENS de Lyon, 2024
